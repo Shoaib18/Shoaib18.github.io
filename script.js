@@ -5,7 +5,7 @@ const COMMANDS = {
   about:
     "Hello I'm Shaik Shoaib Ahamed, a cyber security researcher with morethan 2 years of experience in the field. Currently working as an Information Security Analyst . I am well-equipped to identify and analyze potential security threats, vulnerabilites. I am excited to continue leveraging my skills and experience to help organizations stay ahead of potential cyber threats and protect their valuable assets.    ",
   skills:
-    "VAPT | Cloud Security | Red Teaming | ",
+    "VAPT | Cloud Security | Web and Mobile Application Security Testing | ",
   education:
     "Bachelors of Electronics and communication engineering",
   experience:'<span class="code"> Working as a Information Security Analyst </span><br> Security Researcher | Bug Hunter on the Various Platforms - Present<br> ',

@@ -12,7 +12,7 @@ const COMMANDS = {
   certifications: 
     " CAP: - Certified Appsec Practinoner | CC- Certied in Cyber Security, AZ-900:- Azure",
   contact:
-    "You can contact me on Linkedin and or via the mail:<br><a href='https://www.linkedin.com/in/shaik-shoaib-ahamed-1950651a8/' class='success link'>Linkedin</a>, <a href='mailto:shaik22shoaibhamed@gmail.com' class='success link'>Email</a>,"
+    "You can contact me on Linkedin and or via the mail:<br><a href='https://www.linkedin.com/in/shaik-shoaib-ahamed-1950651a8/' class='success link'>Linkedin</a>, <a href='mailto:shaik22shoaibhamed@gmail.com' class='success link'>Email</a>",
 };
 let userInput, terminalOutput;
 
